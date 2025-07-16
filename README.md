@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on a Contact managing android app.<br>👯 I’m looking to collaborate on Android projects.<br>🤝 I’m looking for help with Android studio frontend and backend.<br>🌱 I’m currently learning android app development.
+## Hi there! 👋
+
+I'm **Saurav Kumar**, a passionate developer dedicated to creating something new. Welcome to my GitHub profile!
+
+
+## 💫 About Me:
+I'm currently focused on building innovative applications and services. My journey in software development has been driven by a desire to improve the user experience and create impactful technology. I thrive on challenges and enjoy learning new skills along the way.
 
 
 ## 🌐 Socials:
@@ -8,16 +13,32 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
+## Top Projects
+
+Here are some of my favorite projects:
+
+- [ContactList](https://github.com/OneHeaded/ContactList) - A contact storage app. 
+  Stars: 0 | Language: Java | Forks: 0 | Issues: 0
+- [Tic-Tac-Toe](https://github.com/OneHeaded/Tic-Tac-Toe) - An easy to play two-player game. 
+  Stars: 0 | Language: Java | Forks: 0 | Issues: 0
+- [Yoga](https://github.com/OneHeaded/Yoga) - A digital assistant. 
+  Stars: 0 | Language: Python | Forks: 0 | Issues: 0
+
+
+## Recent Activity
+
+Here are some of my latest GitHub activities:
+- Updated README.md in [OneHeaded](https://github.com/OneHeaded/OneHeaded)  
+- Created tag v1.1 in [Tic-Tac-Toe](https://github.com/OneHeaded/Tic-Tac-Toe)  
+- Published release v1.1 for [Tic-Tac-Toe](https://github.com/OneHeaded/Tic-Tac-Toe)  
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OneHeaded&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OneHeaded&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OneHeaded&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OneHeaded&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🔭 **Public Repositories:** 4  
+👥 **Followers:** 0  
+👤 **Following:** 0  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OneHeaded&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OneHeaded&show_icons=true&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OneHeaded&icon=0&color=0)](https://visitcount.itsvg.in)
