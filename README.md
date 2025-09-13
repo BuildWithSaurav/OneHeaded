@@ -16,27 +16,12 @@ I'm currently focused on building innovative applications and services. My journ
 ## Top Projects
 
 Here are some of my favorite projects:
-
-- [ContactList](https://github.com/OneHeaded/ContactList) - A contact storage app. 
+- [SensorTest](https://github.com/OneHeaded/SensorTest) -An app to test mobile phone sensors. 
   Stars: 0 | Language: Java | Forks: 0 | Issues: 0
-- [Tic-Tac-Toe](https://github.com/OneHeaded/Tic-Tac-Toe) - An easy to play two-player game. 
+- [ContactList](https://github.com/OneHeaded/ContactList) - A contact storage app. 
   Stars: 0 | Language: Java | Forks: 0 | Issues: 0
 - [Yoga](https://github.com/OneHeaded/Yoga) - A digital assistant. 
   Stars: 0 | Language: Python | Forks: 0 | Issues: 0
-
-
-## Recent Activity
-
-Here are some of my latest GitHub activities:
-- Updated README.md in [OneHeaded](https://github.com/OneHeaded/OneHeaded)  
-- Created tag v1.1 in [Tic-Tac-Toe](https://github.com/OneHeaded/Tic-Tac-Toe)  
-- Published release v1.1 for [Tic-Tac-Toe](https://github.com/OneHeaded/Tic-Tac-Toe)  
-
-# 📊 GitHub Stats:
-
-🔭 **Public Repositories:** 5  
-👥 **Followers:** 0  
-👤 **Following:** 0  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OneHeaded&show_icons=true&theme=radical)
 
