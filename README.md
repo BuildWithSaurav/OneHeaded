@@ -27,3 +27,11 @@ Here are some of my favorite projects:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OneHeaded&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+## ⚡ "Code. Learn. Build. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=120&section=footer"/>
+
+</div>
